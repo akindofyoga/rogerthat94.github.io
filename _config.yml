@@ -1,0 +1,16 @@
+title: Roger Iyengar
+description: >- 
+  I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the 
+  privilege of being advised by Professor Satya.
+url: "http://rogeriyengar.com/website-test/"
+address:
+  - Gates Hillman Center 9221
+  - Computer Science Department
+  - Carnegie Mellon University
+
+remote_theme: github/personal-website
+plugins:
+  - jekyll-octicons
+
+avatar: "/images/logo.png"
+google_analytics: UA-39089929-2
