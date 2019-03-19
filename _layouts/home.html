@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="height-full">
+<html class="height-full" lang="{{ site.lang }}">
   <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -20,19 +20,19 @@
   <body class="bg-white height-full">
     <div class="d-md-flex height-full border-md-bottom">
       <div class="flex-self-stretch border-md-right border-gray-light bg-white col-md-5 col-lg-4 col-xl-3 px-4 px-md-6 px-lg-7 py-6">
-        <img src="{{ site.avatar }}" class="circle mb-3" style="max-width: 150px;">
+        <img src="{{ site.avatar }}" class="circle mb-3" alt="avatar">
 	<h1 class="mb-2 lh-condensed">{{ site.title }}</h1>
 	<div class="f4 mb-6">
 	  {% for line in site.address %}
-	    <div class="d-flex flex-items-center">
-	      {{ line }}
-	    </div>
+	  <div class="d-flex flex-items-center">
+	    {{ line }}
+	  </div>
 	  {% endfor %}
         </div>
       </div>
 
       <div class="col-md-7 col-lg-8 col-xl-9 px-4 py-6 px-lg-7 border-top border-md-top-0 bg-gray-light">
-        <div class="mx-auto" style="max-width: 900px;">
+        <div class="mx-auto">
           <div class="f4 mb-6">
             <div class="f4">
               {{ content }}

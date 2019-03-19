@@ -1,6 +1,6 @@
 title: Roger Iyengar
-description: >- 
-  I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the 
+description: >-
+  I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the
   privilege of being advised by Professor Satya.
 url: "http://rogeriyengar.com/website-test/"
 address:
@@ -14,3 +14,4 @@ plugins:
 
 avatar: "/images/logo.png"
 google_analytics: UA-39089929-2
+lang: en
