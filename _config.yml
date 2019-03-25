@@ -11,6 +11,7 @@ address:
 remote_theme: github/personal-website
 plugins:
   - jekyll-octicons
+exclude: LICENSE.txt
 
 avatar: "/images/logo.png"
 google_analytics: UA-39089929-2
