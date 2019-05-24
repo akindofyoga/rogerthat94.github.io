@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## About
-I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya/){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org/){:target="_blank"}.
+I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}.
 
 ## Publications
 * [Towards Practical Differentially Private Convex Optimization](https://doi.ieeecomputersociety.org/10.1109/SP.2019.00001){:target="_blank"}. Roger Iyengar, Joseph P. Near, Dawn Song, Om Thakkar, Abhradeep Thakurta, Lun Wang. In Proceedings of the 40th IEEE Symposium on Security and Privacy, May 2019.
