@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## About
-I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya/){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org/){:target="_blank"}.
+I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}.
 
 ## Publications
 * [Towards scalable edge-native applications](https://doi.org/10.1145/3318216.3363308). Junjue Wang, Ziqiang Feng, Shilpa George, Roger Iyengar, Padmanabhan Pillai, and Mahadev Satyanarayanan. In Proceedings of the 4th ACM/IEEE Symposium on Edge Computing, November 2019.
