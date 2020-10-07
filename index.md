@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## About
-I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}. test
+I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}.
 
 ## Publications
 * [Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text](https://doi.org/10.1145/3366423.3380262){:target="_blank"}. Vinayshekhar Bannihatti Kumar, Roger Iyengar, Namita Nisal, Yuanyuan Feng, Hana Habib, Peter Story, Sushain Cherivirala, Margaret Hagan, Lorrie Cranor, Shomir Wilson, Florian Schaub, and Norman Sadeh. In Proceedings of The Web Conference, April 2020. &bull; [Video presentation](https://youtu.be/IrJCIV_F0-4){:target="_blank"}
