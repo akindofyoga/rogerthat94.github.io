@@ -11,3 +11,6 @@ I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I 
 * [Towards scalable edge-native applications](https://doi.org/10.1145/3318216.3363308){:target="_blank"}. Junjue Wang, Ziqiang Feng, Shilpa George, Roger Iyengar, Padmanabhan Pillai, and Mahadev Satyanarayanan. In Proceedings of the 4th ACM/IEEE Symposium on Edge Computing, November 2019.
 * [Towards Practical Differentially Private Convex Optimization](https://doi.org/10.1109/SP.2019.00001){:target="_blank"}. Roger Iyengar, Joseph P. Near, Dawn Song, Om Thakkar, Abhradeep Thakurta, and Lun Wang. In Proceedings of the 40th IEEE Symposium on Security and Privacy, May 2019.
 * [Automated analysis of privacy requirements for mobile apps](https://doi.org/10.14722/ndss.2017.23034){:target="_blank"}. Sebastian Zimmeck, Ziqi Wang, Lieyong Zou, Roger Iyengar, Bin Liu, Florian Schaub, Shomir Wilson, Norman Sadeh, Steven M. Bellovin, and Joel Reidenberg. In Proceedings of the Network and Distributed System Security Symposium, March 2017.
+
+## Technical Reports
+* [Simulating Edge Computing Environments to Optimize Application Experience](http://reports-archive.adm.cs.cmu.edu/anon/2020/abstracts/20-135.html){:target="_blank"} James R. Blakley, Roger Iyengar, Michel Roy. CMU-CS-20-135, November 2020.
