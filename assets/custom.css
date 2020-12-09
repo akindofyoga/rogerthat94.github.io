@@ -106,11 +106,8 @@
 
 #wordmark {
     position: absolute;
-    left: 0;
     top: 50px;
     width: 100%;
-    text-align: center;
-    height: 0;
 }
 
 #wordmark a {
