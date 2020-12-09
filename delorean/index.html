@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+
+<!-- Based on https://web.archive.org/web/20171230030856/https://www.reddit.com/r/dankmemes/ -->
+
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <title>Delorean</title>
+    <style>
+      @keyframes road_scroll {
+	  100%{transform: translateY(2800px);}
+      }
+
+      #grid {
+	  height: 3200px;
+	  width: 100%;
+	  margin-top: -2800px;
+	  background: url(grid.jpg);
+	  animation: road_scroll 18s linear infinite;
+      }
+
+      #grid_wrapper_inner {
+	  width: 100%;
+	  height: 340px;
+	  position: absolute;
+	  bottom: 0;
+	  left: 0;
+	  margin-left: -3%;
+	  overflow: hidden;
+	  transform: rotateX(75deg);
+      }
+
+      #grid_wrapper_outer {
+	  position: absolute;
+	  top: 100px;
+	  left: 0;
+	  padding: 0;
+	  width: 100%;
+	  perspective: 150px;
+	  perspective-origin: 50% 100px;
+	  height: 255px;
+	  overflow: hidden;
+	  z-index: 1;
+      }
+
+      #blue {
+	  position: absolute;
+	  height: 50px;
+	  margin-top: 45px;
+	  width: 100%;
+	  background:
+	      linear-gradient(
+		  to bottom, transparent, rgba(0,181,255,0.7), transparent);
+      }
+
+      @keyframes galaxy-move {
+	  100% {transform: translateY(-1800px);}
+      }
+
+      #galaxy {
+	  left: 0;
+	  top: 0;
+	  z-index: -1;
+	  background-image: url(galaxy.jpg);
+	  height: 2000px;
+	  width: 2000px;
+	  margin-top: 0;
+	  width: 100%;
+	  background-repeat: repeat;
+	  animation: galaxy-move 150s linear infinite;
+      }
+
+      #galaxy_wrapper {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+
+	  padding: 0;
+	  margin: 0;
+
+	  width: 100%;
+	  height: 320px;
+	  overflow: hidden;
+      }
+
+      #foreground {
+	  position: relative;
+	  z-index: 99;
+      }
+
+      #delorean {
+	  background-image: url(delorean.png);
+	  height: 150px;
+	  width: 225px;
+	  position: absolute;
+	  left: 50%;
+	  margin-left: -113px;
+	  top: 175px;
+	  background-size: contain;
+	  z-index: 101;
+      }
+
+      #wordmark_wrapper {
+	  position: absolute;
+	  left: 0;
+	  top: 50px;
+	  width: 100%;
+	  text-align: center;
+	  height: 0;
+      }
+
+      #wordmark {
+	  display: block;
+	  position: relative;
+	  height: 150px;
+	  width: 600px;
+	  background-image: url(wordmark.png);
+	  background-size: cover;
+	  margin: 0 auto;
+      }
+
+      #wordmark:hover {
+	  background-position: 0 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="foreground">
+      <div id="delorean"></div>
+
+      <span id="wordmark_wrapper">
+	<span id="wordmark"></span>
+      </span>
+    </div>
+
+
+    <div id="grid_wrapper_outer">
+      <div id="grid_wrapper_inner">
+	<div id="grid"></div>
+      </div>
+
+      <div id="blue"></div>
+    </div>
+
+    <div id="galaxy_wrapper">
+      <div id="galaxy"></div>
+    </div>
+
+  </body>
+</html>
