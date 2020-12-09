@@ -65,7 +65,6 @@
 #galaxy {
     left: 0;
     top: 0;
-    z-index: -1;
     background-image: url(/images/galaxy.jpg);
     height: 2000px;
     width: 2000px;
@@ -90,7 +89,7 @@
 
 #foreground {
     position: relative;
-    z-index: 99;
+    z-index: 2;
 }
 
 #delorean {
@@ -102,7 +101,7 @@
     margin-left: -113px;
     top: 175px;
     background-size: contain;
-    z-index: 101;
+    z-index: 3;
 }
 
 #wordmark {
