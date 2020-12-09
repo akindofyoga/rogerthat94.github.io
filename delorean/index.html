@@ -8,7 +8,9 @@
     <title>Delorean</title>
     <style>
       @keyframes road_scroll {
-	  100%{transform: translateY(2800px);}
+	  100% {
+	      transform: translateY(2800px);
+	  }
       }
 
       #grid {
@@ -48,13 +50,13 @@
 	  height: 50px;
 	  margin-top: 45px;
 	  width: 100%;
-	  background:
-	      linear-gradient(
-		  to bottom, transparent, rgba(0,181,255,0.7), transparent);
+	  background: linear-gradient(to bottom, transparent, rgba(0,181,255,0.7), transparent);
       }
 
-      @keyframes galaxy-move {
-	  100% {transform: translateY(-1800px);}
+      @keyframes galaxy_move {
+	  100% {
+	      transform: translateY(-1800px);
+	  }
       }
 
       #galaxy {
@@ -67,7 +69,7 @@
 	  margin-top: 0;
 	  width: 100%;
 	  background-repeat: repeat;
-	  animation: galaxy-move 150s linear infinite;
+	  animation: galaxy_move 150s linear infinite;
       }
 
       #galaxy_wrapper {
