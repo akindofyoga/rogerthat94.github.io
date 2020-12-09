@@ -1,5 +1,11 @@
 /* Begin Header */
 
+@media (max-width: 600px) {
+    #header {
+	display: none;
+    }
+}
+
 #header {
     height: 350px;
 }
@@ -89,8 +95,8 @@
 
 #delorean {
     background-image: url(/images/delorean.png);
-    width: min(30vw, 225px);
-    height: calc(min(30vw, 225px) * 0.66);
+    width: 225px;
+    height: 150px;
     position: absolute;
     left: 50%;
     margin-left: -113px;
@@ -112,8 +118,8 @@
     display: block;
     font-size: 0;
     position: relative;
-    width: min(80vw, 600px);
-    height: calc(min(80vw, 600px) * 0.25);
+    width: 600px;
+    height: 150px;
     background-image: url(/images/wordmark.png);
     background-size: cover;
     margin: 0 auto;
