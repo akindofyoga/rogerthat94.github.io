@@ -17,3 +17,7 @@ exclude:
 avatar: "/images/logo.png"
 google_analytics: UA-39089929-2
 lang: en
+
+compress_html:
+  clippings: all
+  comments: all
