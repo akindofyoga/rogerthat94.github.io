@@ -2,6 +2,11 @@
 layout: compress
 ---
 
+<!-- Layout based on https://github.com/github/personal-website/blob/master/_layouts/default.html -->
+<!-- Header from https://old.reddit.com/r/dankmemes/wiki/config/stylesheet?v=50df492a-48cb-11e7-988c-0e73014aa6da&v2=8c226d64-48d0-11e7-b03d-0e1dbf2d0ee4 -->
+<!-- DeLorean image appears to be from https://wall.alphacoders.com/big.php?i=829733 -->
+<!-- Font used in wordmark: http://www.jeckodevelopment.com/en/fonts/jd-digital -->
+
 <!doctype html>
 <html class="height-full" lang="{{ site.lang }}">
   <head>
@@ -22,8 +27,30 @@ layout: compress
     <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
     <link href="{{ "/assets/custom.css" | relative_url }}" rel="stylesheet" type="text/css">
   </head>
-  <body class="bg-white height-full">
-    <div class="d-md-flex height-full border-md-bottom">
+  <body class="height-full">
+    <div id="header">
+      <div id="foreground">
+        <div id="delorean"></div>
+        <span id="wordmark">
+	  <a href="/">Roger Iyengar</a>
+	</span>
+      </div>
+
+
+      <div id="grid_wrapper_outer">
+	<div id="grid_wrapper_inner">
+	  <div id="grid"></div>
+	</div>
+
+	<div id="blue"></div>
+      </div>
+
+      <div id="galaxy_wrapper">
+	<div id="galaxy"></div>
+      </div>
+    </div> <!-- /#header -->
+
+    <div id="main" class="d-md-flex border-md-bottom">
       <div class="flex-self-stretch border-md-right border-gray-light bg-white col-md-5 col-lg-4 col-xl-3 px-4 px-md-6 px-lg-7 py-6">
         <img src="{{ site.avatar }}" class="circle mb-3" alt="avatar">
         <h1 class="mb-2 lh-condensed">{{ site.title }}</h1>
@@ -41,6 +68,6 @@ layout: compress
           {{ content }}
         </div>
       </div>
-    </div>
+    </div> <!-- /#main -->
   </body>
 </html>
