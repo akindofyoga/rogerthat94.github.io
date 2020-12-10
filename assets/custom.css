@@ -10,7 +10,7 @@
     height: 350px;
 }
 
-@keyframes road_scroll {
+@keyframes road-scroll {
     100% {
 	transform: translateY(2800px);
     }
@@ -21,10 +21,10 @@
     width: 100%;
     margin-top: -2800px;
     background: url(/images/grid.jpg);
-    animation: road_scroll 18s linear infinite;
+    animation: road-scroll 18s linear infinite;
 }
 
-#grid_wrapper_inner {
+#grid-wrapper-inner {
     width: 100%;
     height: 340px;
     position: absolute;
@@ -35,7 +35,7 @@
     transform: rotateX(75deg);
 }
 
-#grid_wrapper_outer {
+#grid-wrapper-outer {
     position: absolute;
     top: 100px;
     left: 0;
@@ -56,7 +56,7 @@
     background: linear-gradient(to bottom, transparent, rgba(0,181,255,0.7), transparent);
 }
 
-@keyframes galaxy_move {
+@keyframes galaxy-move {
     100% {
 	transform: translateY(-1800px);
     }
@@ -71,10 +71,10 @@
     margin-top: 0;
     width: 100%;
     background-repeat: repeat;
-    animation: galaxy_move 150s linear infinite;
+    animation: galaxy-move 150s linear infinite;
 }
 
-#galaxy_wrapper {
+#galaxy-wrapper {
     position: absolute;
     top: 0;
     left: 0;
@@ -126,10 +126,6 @@
 }
 
 /* End Header */
-
-#main {
-    height: calc(100% - 350px);
-}
 
 #content {
     max-width: 900px;
