@@ -13,6 +13,9 @@ plugins:
   - jekyll-octicons
 exclude:
   - LICENSE.txt
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
 
 avatar: "/images/logo.png"
 google_analytics: UA-39089929-2
