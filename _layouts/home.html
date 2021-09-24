@@ -22,7 +22,12 @@ layout: compress
 
     <meta charset="utf-8">
     <meta name="description" content="{{ site.description }}" />
-    <title>{{ site.title }}</title>
+    <title>
+      {{ site.title }}
+      {% if page.html_title %}
+        &bull; {{ page.html_title }}
+      {% endif %}
+    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
     <link href="{{ "/assets/custom.css" | relative_url }}" rel="stylesheet" type="text/css">
@@ -32,7 +37,7 @@ layout: compress
       <div id="foreground">
         <div id="delorean"></div>
         <span id="wordmark">
-	  <a href="{{ absolute_url }}">Roger Iyengar</a>
+	  <a href="{{ "/" | absolute_url }}">Roger Iyengar</a>
 	</span>
       </div>
 
