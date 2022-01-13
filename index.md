@@ -14,4 +14,5 @@ I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I 
 * [Automated analysis of privacy requirements for mobile apps](https://doi.org/10.14722/ndss.2017.23034){:target="_blank"}. Sebastian Zimmeck, Ziqi Wang, Lieyong Zou, Roger Iyengar, Bin Liu, Florian Schaub, Shomir Wilson, Norman Sadeh, Steven M. Bellovin, and Joel Reidenberg. In Proceedings of the Network and Distributed System Security Symposium, March 2017.
 
 ## Technical Reports
+* [Improving Edge Elasticity via Decode Offload](http://reports-archive.adm.cs.cmu.edu/anon/2021/abstracts/21-139.html){:target="_blank"} Ziqiang Feng, Shilpa George, Haithem Turki, Roger Iyengar, Padmanabhan Pillai, Jan Harkes, Mahadev Satyanarayanan. CMU-CS-21-139, September 2021.
 * [Simulating Edge Computing Environments to Optimize Application Experience](http://reports-archive.adm.cs.cmu.edu/anon/2020/abstracts/20-135.html){:target="_blank"} James R. Blakley, Roger Iyengar, Michel Roy. CMU-CS-20-135, November 2020.
