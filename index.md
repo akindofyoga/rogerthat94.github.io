@@ -3,9 +3,10 @@ layout: home
 ---
 
 ## About
-I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I am fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}.
+I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I was fortunate enough to be funded by an [NSF Graduate Research Fellowship](http://nsfgrfp.org){:target="_blank"}.
 
 ## Publications
+* [Experience with Using Synthetic Training Images for Wearable Cognitive Assistance](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=884040){:target="_blank"}. Roger Iyengar, Emily Zhang, Mahadev Satyanarayanan. In Proceedings of the AAAI Spring Symposium on AI Engineering, March 2022.
 * [Ajalon: Simplifying the authoring of wearable cognitive assistants](https://doi.org/10.1002/spe.2987){:target="_blank"}. Truong An Pham, Junjue Wang, Roger Iyengar, Yu Xiao, Padmanabhan Pillai, Roberta Klatzky, Mahadev Satyanarayanan. In Software: Practice and Experience, May 2021.
 * [OpenRTiST: End-to-End Benchmarking for Edge Computing](https://doi.org/10.1109/MPRV.2020.3028781){:target="_blank"}. Shilpa George, Thomas Eiszler, Roger Iyengar, Haithem Turki, Ziqiang Feng, Junjue Wang, Padmanabhan Pillai, Mahadev Satyanarayanan. In IEEE Pervasive Computing, October 2020.
 * [Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text](https://doi.org/10.1145/3366423.3380262){:target="_blank"}. Vinayshekhar Bannihatti Kumar, Roger Iyengar, Namita Nisal, Yuanyuan Feng, Hana Habib, Peter Story, Sushain Cherivirala, Margaret Hagan, Lorrie Cranor, Shomir Wilson, Florian Schaub, and Norman Sadeh. In Proceedings of The Web Conference, April 2020. &bull; [Video presentation](https://youtu.be/IrJCIV_F0-4){:target="_blank"}
