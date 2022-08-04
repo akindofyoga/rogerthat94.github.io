@@ -6,6 +6,7 @@ layout: home
 I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I was fortunate enough to be funded by an [NSF Graduate Research Fellowship](https://nsfgrfp.org){:target="_blank"}.
 
 ## Publications
+* [Accelerating Silent Witness Storage](https://doi.org/10.1109/MM.2022.3193048){:target="_blank"}. Mahadev Satyanarayanan, Ziqiang Feng, Shilpa George, Jan Harkes, Roger Iyengar, Haithem Turki, Padmanabhan Pillai. In IEEE Micro, July 2022.
 * [Experience with Using Synthetic Training Images for Wearable Cognitive Assistance](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=884040){:target="_blank"}. Roger Iyengar, Emily Zhang, Mahadev Satyanarayanan. In Proceedings of the AAAI Spring Symposium on AI Engineering, March 2022.
 * [Ajalon: Simplifying the authoring of wearable cognitive assistants](https://doi.org/10.1002/spe.2987){:target="_blank"}. Truong An Pham, Junjue Wang, Roger Iyengar, Yu Xiao, Padmanabhan Pillai, Roberta Klatzky, Mahadev Satyanarayanan. In Software: Practice and Experience, May 2021.
 * [OpenRTiST: End-to-End Benchmarking for Edge Computing](https://doi.org/10.1109/MPRV.2020.3028781){:target="_blank"}. Shilpa George, Thomas Eiszler, Roger Iyengar, Haithem Turki, Ziqiang Feng, Junjue Wang, Padmanabhan Pillai, Mahadev Satyanarayanan. In IEEE Pervasive Computing, October 2020.
