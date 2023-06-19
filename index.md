@@ -3,7 +3,8 @@ layout: home
 ---
 
 ## About
-I am pursuing my PhD in Computer Science at Carnegie Mellon University, where I have the privilege of being advised by [Professor Satya](https://www.cs.cmu.edu/~satya){:target="_blank"}. My research interests include mobile systems and edge computing. I was fortunate enough to be funded by an [NSF Graduate Research Fellowship](https://nsfgrfp.org){:target="_blank"}.
+I have completed my [PhD in computer sceince]({{ site.baseurl }}{% link /docs/iyengar_phd.pdf %}){:target="_blank"}.
+My thesis was [Scaling Up Wearable Cognitive Assistance for Assembly Tasks](https://doi.org/10.1184/R1/23302121.v1){:target="_blank"}.
 
 ## Publications
 * [Poster: Does Wearable Cognitive Assistance Require Edge Computing?](https://doi.org/10.1145/3572864.3581591){:target="_blank"}. Roger Iyengar, Qifei Dong, Chanh Nguyen, Padmanabhan Pillai, Mahadev Satyanarayanan. In Proceedings of the 24th International Workshop on Mobile Computing Systems and Applications, February 2023. &bull; [Poster](https://docs.google.com/drawings/d/1ZuXqsRHaPjbV5CdB5TWCV45h_qDRhP_UZqCt0ZzNExg){:target="_blank"}
