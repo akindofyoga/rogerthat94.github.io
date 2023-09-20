@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## About
-I have completed my [PhD in computer sceince]({{ site.baseurl }}{% link /docs/iyengar_phd.pdf %}){:target="_blank"}.
+I have completed my [PhD in computer science]({{ site.baseurl }}{% link /docs/iyengar_phd.pdf %}){:target="_blank"}.
 My thesis was [Scaling Up Wearable Cognitive Assistance for Assembly Tasks](https://doi.org/10.1184/R1/23302121.v1){:target="_blank"}.
 
 ## Publications
