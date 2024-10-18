@@ -3,11 +3,12 @@ layout: home
 ---
 
 ## About
-I have completed my [PhD in computer science]({{ site.baseurl }}{% link /docs/iyengar_phd.pdf %}){:target="_blank"}.
+I am a research scientist at [Meta](https://www.meta.com/){:target="_blank"}.
+Prior to this, I completed my [PhD in computer science]({{ site.baseurl }}{% link /docs/iyengar_phd.pdf %}){:target="_blank"}.
 My thesis was [Scaling Up Wearable Cognitive Assistance for Assembly Tasks](https://doi.org/10.1184/R1/23302121.v1){:target="_blank"}.
 
 ## Publications
-* [Offload Shaping for Wearable Cognitive Assistance](https://doi.org/10.1109/EDGE60047.2023.00037){:target="_blank"}. Roger Iyengar, Qifei Dong, Chanh Nguyen, Padmanabhan Pillai, Mahadev Satyanarayanan. In 2023 IEEE International Conference on Edge Computing and Communications (EDGE), July 2023.
+* [Offload Shaping for Wearable Cognitive Assistance](https://doi.org/10.3390/electronics13204083){:target="_blank"}. Roger Iyengar, Qifei Dong, Chanh Nguyen, Padmanabhan Pillai, Mahadev Satyanarayanan. In Electronics, 2024. 
 * [Accelerating Silent Witness Storage](https://doi.org/10.1109/MM.2022.3193048){:target="_blank"}. Mahadev Satyanarayanan, Ziqiang Feng, Shilpa George, Jan Harkes, Roger Iyengar, Haithem Turki, Padmanabhan Pillai. In IEEE Micro, July 2022.
 * [Experience with Using Synthetic Training Images for Wearable Cognitive Assistance](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=884040){:target="_blank"}. Roger Iyengar, Emily Zhang, Mahadev Satyanarayanan. In Proceedings of the AAAI Spring Symposium on AI Engineering, March 2022.
 * [Ajalon: Simplifying the authoring of wearable cognitive assistants](https://doi.org/10.1002/spe.2987){:target="_blank"}. Truong An Pham, Junjue Wang, Roger Iyengar, Yu Xiao, Padmanabhan Pillai, Roberta Klatzky, Mahadev Satyanarayanan. In Software: Practice and Experience, May 2021.
