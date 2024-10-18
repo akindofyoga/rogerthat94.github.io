@@ -1,9 +1,10 @@
 title: Roger Iyengar
 description: >-
-  I have completed my PhD in computer sceince. My thesis was Scaling Up Wearable
-  Cognitive Assistance for Assembly Tasks.
+  Research scientist at Meta.
 url: "http://rogeriyengar.com"
-address: []
+address:
+  - Meta
+  - Bellevue, WA
 
 remote_theme: github/personal-website
 plugins:
